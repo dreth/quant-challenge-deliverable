@@ -1,8 +1,8 @@
 # quant-challenge-deliverable
 
-This repo contains all the code written as a self contained project. 
+This repo contains all the code written as a self contained project.
 
-I used `uv` and python 3.12.11 to setup this project and run the code. 
+I used `uv` and python 3.12.11 to setup this project and run the code.
 
 Overall I had this separated in multiple scripts, but the challenge calls for a single script, so I have combined everything in a single script `main.py`.
 
