@@ -1,0 +1,16 @@
+[project]
+name = "eagleq-challenge"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12.11"
+dependencies = [
+    "databento>=0.63.0",
+    "ipykernel>=6.30.1",
+    "matplotlib>=3.10.6",
+    "nautilus-trader>=1.220.0",
+    "pandas>=2.3.2",
+    "python-dotenv>=1.1.1",
+    "ruff>=0.13.1",
+    "tabulate>=0.9.0",
+]
