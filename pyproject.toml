@@ -1,7 +1,7 @@
 [project]
 name = "eagleq-challenge"
 version = "0.1.0"
-description = "Add your description here"
+description = "Quant challenge deliverable"
 readme = "README.md"
 requires-python = ">=3.12.11"
 dependencies = [
